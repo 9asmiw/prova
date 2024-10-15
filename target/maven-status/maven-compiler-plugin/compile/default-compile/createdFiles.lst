@@ -1,0 +1,7 @@
+com\example\cursoDisciplina\DisciplinaRepository.class
+com\example\cursoDisciplina\DisciplinaController.class
+com\example\cursoDisciplina\Disciplina.class
+com\example\cursoDisciplina\Curso.class
+com\example\cursoDisciplina\CursoRepository.class
+com\example\cursoDisciplina\CursoController.class
+com\example\cursoDisciplina\CursoDisciplinaApplication.class
